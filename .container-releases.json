@@ -1,0 +1,20 @@
+[
+  {
+    "version": "bookworm",
+    "branch": "main",
+    "bootstrap": "docker.io/library/debian:bookworm",
+    "aliases": [
+      "12"
+    ]
+  },
+  {
+    "version": "trixie",
+    "branch": "main",
+    "bootstrap": "docker.io/library/debian:trixie",
+    "aliases": [
+      "13",
+      "stable",
+      "latest"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "Debian",
+  "upstream": "https://github.com/debuerreotype/debuerreotype.git",
+  "ref": "master",
+  "revision": "e63dab169190cd9403d77c6a87469fa0f153b659"
+}
